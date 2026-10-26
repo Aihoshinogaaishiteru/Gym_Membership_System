@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gym Membership System wDesign", "Gym Membership System wDesign.csproj", "{AE145028-E841-4BCF-9CCB-68F87BB08F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE145028-E841-4BCF-9CCB-68F87BB08F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE145028-E841-4BCF-9CCB-68F87BB08F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE145028-E841-4BCF-9CCB-68F87BB08F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE145028-E841-4BCF-9CCB-68F87BB08F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC551998-3202-4A3F-8820-3AEE438A5F79}
+	EndGlobalSection
+EndGlobal
